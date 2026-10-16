@@ -1,0 +1,28 @@
+{
+  "expo": {
+    "name": "SJ Jewelers",
+    "slug": "sj-jewelers",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/hero.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/hero.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#583cf5"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/hero.png",
+        "backgroundColor": "#583cf5"
+      }
+    },
+    "plugins": [
+      "expo-asset",
+      "expo-font"
+    ]
+  }
+}
